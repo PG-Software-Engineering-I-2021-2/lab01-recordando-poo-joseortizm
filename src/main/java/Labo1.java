@@ -6,6 +6,7 @@ import java.text.DecimalFormat;
 public class Labo1 {
     static final Logger logger = Logger.getLogger(Labo1.class.getName());
     public static void main(String[ ] args) {
+        //logger.info("hola mundo");
         DecimalFormat df = new DecimalFormat("0.00");
 //Ejemplo 1
         Automovil lAutomovil1 = new Automovil(10,100,0.9,4);
