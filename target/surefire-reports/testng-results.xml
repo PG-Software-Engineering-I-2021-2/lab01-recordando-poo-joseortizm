@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="131" passed="131" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-15T19:57:15 PET" name="cs.software.lab1.Labo1Test" finished-at="2021-09-15T19:57:15 PET" duration-ms="236">
+    <groups>
+    </groups>
+    <test started-at="2021-09-15T19:57:15 PET" name="Command line test" finished-at="2021-09-15T19:57:15 PET" duration-ms="236">
+      <class name="cs.software.lab1.Labo1Test">
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test" finished-at="2021-09-15T19:57:15 PET" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test01()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test01" finished-at="2021-09-15T19:57:15 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test02" finished-at="2021-09-15T19:57:15 PET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test03()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test03" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method signature="test04()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test04" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method signature="test05()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test05" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+        <test-method signature="test06()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test06" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+        <test-method signature="test08()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test08" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test08 -->
+        <test-method signature="test07()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test07" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07 -->
+        <test-method signature="test10()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test10" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test09()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test09" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test09 -->
+        <test-method signature="test12()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test12" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test11()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test11" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test13()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test13" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method signature="test14()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test14" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method signature="test15()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test15" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test15 -->
+        <test-method signature="test16()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test16" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+        <test-method signature="test17()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test17" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test17 -->
+        <test-method signature="test18()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test18" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test18 -->
+        <test-method signature="test19()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test19" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test19 -->
+        <test-method signature="test20()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test20" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test20 -->
+        <test-method signature="test21()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test21" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test21 -->
+        <test-method signature="test22()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test22" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test22 -->
+        <test-method signature="test23()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test23" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test23 -->
+        <test-method signature="test24()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test24" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test24 -->
+        <test-method signature="test25()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test25" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test25 -->
+        <test-method signature="test26()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test26" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test26 -->
+        <test-method signature="test27()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test27" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test27 -->
+        <test-method signature="test28()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test28" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test28 -->
+        <test-method signature="test29()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test29" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test29 -->
+        <test-method signature="test30()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test30" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test30 -->
+        <test-method signature="test31()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test31" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test31 -->
+        <test-method signature="test32()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test32" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test32 -->
+        <test-method signature="test33()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test33" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test33 -->
+        <test-method signature="test35()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test35" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test35 -->
+        <test-method signature="test34()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test34" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test34 -->
+        <test-method signature="test37()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test37" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test37 -->
+        <test-method signature="test36()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test36" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test36 -->
+        <test-method signature="test39()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test39" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test39 -->
+        <test-method signature="test38()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test38" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test38 -->
+        <test-method signature="test42()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test42" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test42 -->
+        <test-method signature="test40()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test40" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test40 -->
+        <test-method signature="test41()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test41" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test41 -->
+        <test-method signature="test43()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test43" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test43 -->
+        <test-method signature="test44()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test44" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test44 -->
+        <test-method signature="test45()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test45" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test45 -->
+        <test-method signature="test47()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test47" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test47 -->
+        <test-method signature="test46()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test46" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test46 -->
+        <test-method signature="test48()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test48" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test48 -->
+        <test-method signature="test50()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test50" finished-at="2021-09-15T19:57:15 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test50 -->
+        <test-method signature="test49()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test49" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test49 -->
+        <test-method signature="test51()[pri:0, instance:cs.software.lab1.Labo1Test@18317edc]" started-at="2021-09-15T19:57:15 PET" name="test51" finished-at="2021-09-15T19:57:15 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test51 -->
+      </class> <!-- cs.software.lab1.Labo1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- cs.software.lab1.Labo1Test -->
+</testng-results>

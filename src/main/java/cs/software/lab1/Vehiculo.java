@@ -5,24 +5,35 @@ public class Vehiculo {
     double consumoCombustible;
     double capacidadTanque;
 
-    Vehiculo(double _cantidadCombustible, double _consumoCombustible, double _capacidadTanque){
-        this.cantidadCombustible = _cantidadCombustible;
-        this.consumoCombustible = _consumoCombustible;
-        this.capacidadTanque = _capacidadTanque;
+    Vehiculo(double cantidadCombustible, double consumoCombustible, double capacidadTanque){
+        this.cantidadCombustible = cantidadCombustible;
+        this.consumoCombustible = consumoCombustible;
+        this.capacidadTanque = capacidadTanque;
     }
 
-    String Rebastecer(double _litros){
-        return "";
+    String rebastecer(double litros){
+        double espacioLibre = this.capacidadTanque - this.cantidadCombustible;
+        if (litros > espacioLibre)
+        {
+            return "Vehiculo no se puede reabastecer el tanque, esta lleno.";
+
+        }
+        else{
+            this.cantidadCombustible += (litros * 0.95);
+            return "La cantidad de combustible del Vehiculo es: "+cantidadCombustible;
+        }
     }
 
-    String Manejar(double _km){
-        double combustibleRequiere = _km*this.consumoCombustible;
+
+
+    String manejar(double km){
+        double combustibleRequiere = km*this.consumoCombustible;
         if(cantidadCombustible-combustibleRequiere<0){
             return ("Vehiculo necesita reabastecimiento de combustible.");
         }
         else{
             this.cantidadCombustible -=combustibleRequiere;
-            return ("Vehiculo viajó " +(_km)+" km y aún tiene " +String.format("%.2f",cantidadCombustible,2)+ " de combustible.");
+            return ("Vehiculo viajó " +(km)+" km y aún tiene " +String.format("%.2f",cantidadCombustible)+ " de combustible.");
         }
     }
 

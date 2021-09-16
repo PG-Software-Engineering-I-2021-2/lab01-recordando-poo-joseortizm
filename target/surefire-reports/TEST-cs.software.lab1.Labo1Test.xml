@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="131" failures="0" name="cs.software.lab1.Labo1Test" time="3.413" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="16.0.2+0"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/16.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/jose/mcs/se/lab01-recordando-poo-joseortizm"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="user.country" value="PE"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/jose/mcs/se/lab01-recordando-poo-joseortizm"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="16.0.2+0"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/56/kl322bgs375_ng6bsgh5x8fh0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/usr/local/Cellar/maven/3.8.2/libexec/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/jose/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/usr/local/Cellar/maven/3.8.2/libexec/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.14.6"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/jose"/>
+    <property name="user.timezone" value="America/Lima"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="user.name" value="jose"/>
+    <property name="java.class.path" value="/usr/local/Cellar/maven/3.8.2/libexec/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/16.0.2/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="maven.home" value="/usr/local/Cellar/maven/3.8.2/libexec"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.037"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.038"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.039"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.039"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.039"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.039"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.039"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.04"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.04"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.04"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.04"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.04"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.04"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.041"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.041"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.041"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.041"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.042"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.042"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.042"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.043"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.044"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.045"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.045"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.045"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.046"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.046"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.046"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.047"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.047"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.048"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.048"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.049"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.049"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.051"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.051"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.051"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.052"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.052"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.052"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.052"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.053"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.053"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.053"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test" time="0.053"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test01" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test02" time="0.01"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test03" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test04" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test05" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test06" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test07" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test08" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test09" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test10" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test11" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test12" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test13" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test14" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test15" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test16" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test17" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test18" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test19" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test20" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test21" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test22" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test23" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test24" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test25" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test26" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test27" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test28" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test29" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test30" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test31" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test32" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test33" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test34" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test35" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test36" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test37" time="0.001"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test38" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test39" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test40" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test41" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test42" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test43" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test44" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test45" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test46" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test47" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test48" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test49" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test50" time="0"/>
+  <testcase classname="cs.software.lab1.Labo1Test" name="test51" time="0"/>
+</testsuite>

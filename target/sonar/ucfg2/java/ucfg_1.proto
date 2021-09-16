@@ -1,18 +1,22 @@
 
--cs.software.lab1.Camion#consumoCombustible()Dg
-]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (%"1*ÿ
+7cs.software.lab1.Camion#rebastecer(D)Ljava/lang/String;g
+]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java ("2"1*“
+2g
+]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (J"¤
+g
+]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (K97
+5Camion no se puede reabastecer el tanque, esta lleno.*»
 1g
-]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (ÐÍ
+]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (Æ
+Ã
 g
-]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (!
-%0double"(cs.software.lab1.Vehiculo#getCantidad()D*
-cs.software.lab1.Camion2getCantidad()ÊÇ
+]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (S
+%0java.lang.String"__concat*.,
+*La cantidad de combustible del camion es: *
+"""ƒ
 g
-]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java( (7
-%1double"%cs.software.lab1.Vehiculo#getViaje()D*
-cs.software.lab1.Camion2
-getViaje()"q
-g
-]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (8
+]/Users/jose/mcs/se/lab01-recordando-poo-joseortizm/src/main/java/cs/software/lab1/Camion.java (T
+
+%0java.lang.String:
 ""B
 cs.software.lab1.Camion
